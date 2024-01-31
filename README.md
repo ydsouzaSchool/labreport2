@@ -9,20 +9,20 @@
 
 Method(s) Called: handleRequest, processRequest
 Relevant Arguments:
-Socket clientSocket in handleRequest
-String request in processRequest
+`Socket clientSocket` in `handleRequest`
+`String request` in `processRequest`
 Values and Changes:
-We are changing the chatHistory string, because we are adding the new string that the user adds as a query 
+We are changing the `chatHistory` string, because we are adding the new string that the user adds as a query 
 
 
 ![Image](/image4.png)	
 
 Method(s) Called: handleRequest, processRequest
 Relevant Arguments:
-Socket clientSocket in handleRequest
-String request in processRequest
+`Socket clientSocket` in `handleRequest1`
+`String request` in `processRequest`
 Values and Changes:
-Chathistory string is onc e again updated based on the parameters from the request query. 
+`Chathistory` string is onc e again updated based on the parameters from the request query. 
 
 
 
