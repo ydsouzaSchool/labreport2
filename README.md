@@ -31,5 +31,8 @@ Values and Changes:
 ![Image](/image6.png)	
 
 ## task 3 - Things i learnt:
--> how to access a remote computer from my terminal using ssh keys
--> how to configure vs code to set up a server for java (i am a frequent eclipse user for java, so this was a first) 
+* how to access a remote computer from my terminal using ssh keys
+* how to configure vs code to set up a server for java (i am a frequent eclipse user for java, so this was a first)
+* how to use curl from vs code terminal
+* how to use junit in vscode
+* how to ssh into a remote server
