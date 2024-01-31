@@ -24,7 +24,7 @@ Relevant Arguments:
 Values and Changes:
 `Chathistory` string is onc e again updated based on the parameters from the request query. 
 
-
+i tried building the web server myself rather than copy the code. 
 
 ![Image](/image5.png)	
 
